@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {
+            "DB\\": "db",
+            "Service\\": "service",
+            "Pagerfanta\\": "Pagerfanta"
+        }
+    }
+}
